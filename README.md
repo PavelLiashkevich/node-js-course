@@ -1,4 +1,4 @@
-# Node.js
+# Node.js Course
 
 ### Описание курса:
 
@@ -25,9 +25,8 @@
 - [method-override](https://www.npmjs.com/package/method-override)
 - [mongoose](https://www.npmjs.com/package/mongoose)
 - [morgan](https://www.npmjs.com/package/morgan)
-- [chalk](https://www.npmjs.com/package/chalk)
 - [dotenv](https://www.npmjs.com/package/dotenv)
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/pavel-liashkevich
+- [linkedin]: https://linkedin.com/in/pavel-liashkevich
