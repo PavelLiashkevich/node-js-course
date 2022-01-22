@@ -29,4 +29,4 @@
 
 ---
 
-- [linkedin]: (https://linkedin.com/in/pavel-liashkevich)
+- [linkedin](https://linkedin.com/in/pavel-liashkevich)
